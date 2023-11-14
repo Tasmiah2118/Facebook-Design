@@ -1,0 +1,53 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    height: 100vh;
+    background-color: rgb(220, 244, 8);
+    font-weight: 600;
+}
+#formsection{
+    background-color: white;
+    height: 80vh;
+    width: 50vh;
+    box-sizing: border-box;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 8px 0px gray;;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+}
+#colorfullname{
+    color: blue;
+}
+#colourfullname2{
+    color: white;
+}
+#colorfullname3{
+    color: white;
+    background-color: rgb(31, 31, 205);
+    border: none;
+    padding: 0px 3px;
+    border-radius: 5px;
+    font-weight: 100;
+    color: white;
+}
+h2{
+    color: blue;
+}
+#logbtn{
+    background-color: rgb(31, 31, 205);
+    border: none;
+    padding: 6px 0;
+    border-radius: 5px;
+    font-weight: 600;
+    color: white;
+}
